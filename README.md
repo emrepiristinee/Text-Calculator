@@ -2,7 +2,6 @@
 Text Calculator in Python
 
 
-![banner resmi](https://github.com/emrepiristinee/Text-Calculator/blob/main/photo/1.png)
 
 ![banner resmi](https://github.com/emrepiristinee/Text-Calculator/blob/main/photo/2.png)
 
