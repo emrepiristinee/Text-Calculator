@@ -1,21 +1,9 @@
 # Text-Calculator
-Text Calculator Python
-
-# Seyahat-Blog-EasyTravel-Trip
-Admin panelli seyahat blog sitesi
+Text Calculator in Python
 
 
-# Anasayfa 1
-![banner resmi](https://github.com/emrepiristinee/Seyahat-Blog-EasyTravel-Trip/blob/main/photos/header.png)
+![banner resmi](https://github.com/emrepiristinee/Text-Calculator/blob/main/photo/1.png)
 
-# Anasayfa 2
-![banner resmi](https://github.com/emrepiristinee/Seyahat-Blog-EasyTravel-Trip/blob/main/photos/medium.png)
+![banner resmi](https://github.com/emrepiristinee/Text-Calculator/blob/main/photo/2.png)
 
-# Anasayfa 3
-![banner resmi](https://github.com/emrepiristinee/Seyahat-Blog-EasyTravel-Trip/blob/main/photos/footer.png)
-
-# Blogum
-![banner resmi](https://github.com/emrepiristinee/Seyahat-Blog-EasyTravel-Trip/blob/main/photos/blogum.png)
-
-# Blog sayfası detaylar
-![banner resmi](https://github.com/emrepiristinee/Seyahat-Blog-EasyTravel-Trip/blob/main/photos/bloginside.png)
+![banner resmi](https://github.com/emrepiristinee/Text-Calculator/blob/main/photo/3.png)
